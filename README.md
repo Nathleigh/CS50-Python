@@ -11,7 +11,7 @@ Coloured feedback is given for each letter in the user's guess.
 Written by Nathan Chapman for the final project for Harvard CS50’s Introduction to Programming with Python - 2023
 
 #### Sample game screenshot
-![Screenshot](/blob/main/ASCIIdle%20demo%20screenshot.jpg)
+![Screenshot](/main/ASCIIdle%20demo%20screenshot.jpg)
 
 #### Installation
 No installation needed.
